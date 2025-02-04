@@ -6,7 +6,7 @@ function Footer() {
     <footer className="footer--container">
       <div className="footer--link--container">
         <div>
-          <img src="./img/logo.svg" alt="Logoipsum" />
+          <img src="./img/logo.gif" alt="Logoipsum" />
         </div>
         <div className="footer--items">
           <ul>
@@ -49,7 +49,7 @@ function Footer() {
                 About Me
               </Link>
             </li>
-            <li>
+            {/* <li>
               <Link
                 activeClass="navbar--active-content"
                 spy={true}
@@ -61,8 +61,8 @@ function Footer() {
               >
                 Contact
               </Link>
-            </li>
-            <li>
+            </li> */}
+            {/* <li>
               <Link
                 activeClass="navbar--active-content"
                 spy={true}
@@ -74,7 +74,7 @@ function Footer() {
               >
                 Testimonials
               </Link>
-            </li>
+            </li> */}
           </ul>
         </div>
         <div className="footer--social--icon">
@@ -171,7 +171,7 @@ function Footer() {
         </div>
       </div>
       <hr className="divider" />
-      <div className="footer--content--container">
+      {/* <div className="footer--content--container">
         <p className="footer--content">Made with 💖 by John</p>
         <div className="footer--social--icon">
           <ul>
@@ -216,7 +216,7 @@ function Footer() {
             </li>
           </ul>
         </div>
-      </div>
+      </div> */}
     </footer>
   );
 }

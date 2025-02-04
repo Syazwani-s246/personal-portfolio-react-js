@@ -9,16 +9,7 @@ export default function AboutMe() {
             <p className="section--title">About</p>
             <h1 className="skills-section--heading">About Me</h1>
             <p className="hero--section-description">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-              officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-              recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-              tempora numquam sint odit optio.
-            </p>
-            <p className="hero--section-description">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-              officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-              recusandae?
-            </p>
+            I'm a tech enthusiast with a passion for learning and creating. With experience in AR development, full-stack web development, and software research, I thrive on building engaging digital experiences. At Exar Technologies, I developed interactive AR filters and web-based games, enhancing user engagement. My research at Universiti Malaysia Terengganu focused on software maintainability and DevOps performance, while my internship at Maybank honed my skills in backend development, API optimization, and frontend improvements. I’ve also led projects in software engineering, built IoT solutions, and contributed to research on emerging technologies. Whether it’s AI, AR, or full-stack development, I’m always ready to dive in and push boundaries.</p>
           </div>
         </div>
       </section>
